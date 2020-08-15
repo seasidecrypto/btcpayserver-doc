@@ -41,3 +41,7 @@ Contact: support@lightninginabox.co, [Web](https://lightninginabox.co)
 > I can assist with initial configuration for BTCPay to work with Bitcoin Gold (BTG, also referred as BGold), Bitcoin Gold LND and any docker, no-docker setup for BTCPay with Bitcoin Gold. I would accept tips if the work done was useful, but definitely not mandatory for anyone to pay me for any help.
 
 Contact: VutovSpas@gmail.com, [Mattermost](https://chat.btcpayserver.org/), [BTG Discord](https://forum.bitcoingold.org/t/btg-discord-invite/138) - on both @Spas
+
+### Jeremy Bufford
+
+> Want a BTCPayserver-Powered website? I can help you register a new website from scratch and provide ongoing service and support. I'm responsive and inexpensive, with many years experience in the Bitcoin world and I've been a proud supporter of BTCPayserver since it was just an angry tweet! Find me on [Twitter](https://www.twitter.com/op_reserved) to chat about your goals!
